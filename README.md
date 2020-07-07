@@ -1,2 +1,2 @@
 
-Please check deployed code on Netlify server --- https://loving-austin-a5f160.netlify.app/
+Please check deployed code on Netlify server --- https://nikhil-beach-resort-project.netlify.app/
